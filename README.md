@@ -1,7 +1,7 @@
 [![Actions Status - Master](https://github.com/juju4/ansible-xrdp/workflows/AnsibleCI/badge.svg)](https://github.com/juju4/ansible-xrdp/actions?query=branch%3Amaster)
-[![Actions Status - Devel](https://github.com/juju4/ansible-xrdp/workflows/AnsibleCI/badge.svg?branch=devel)](https://github.com/juju4/ansible-xrdp/actions?query=branch%3Adevel)
-
-# xrdp ansible role
+[ _ [Actions Status - Devel] (https://github.com/juju4/ansible-xrdp/workflows/AnsibleCI/badge.svg?branch=devel) ] (https://github.com/juju4/ansible-xrdp/actions ?query=branch%3Adevel)
+را
+# xrdp نقش قابل انجام
 
 Set up [Xrdp](http://xrdp.org/), free and open-source implementation of Microsoft RDP server
 
